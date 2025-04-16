@@ -1,4 +1,4 @@
 # git_tutorial
 i am going to get knowledge of git
 <br>
-developer - imhth
+developer - imhth (Data Science)
